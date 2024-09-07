@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on buildin
 ### Programming Languages:
 <p align="left">
   <a href="https://github.com/swamhtetaungsuesha">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,java" />
+    <img src="https://skillicons.dev/icons?i=js,ts,java" />
   </a>
 </p>
 
@@ -44,9 +44,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a focus on buildin
 ---
 
 ### <img src="https://media.giphy.com/media/kEYGzoUvSXbCNAs0ak/giphy.gif" width="40">  Feature Projects
-<img src="https://media.giphy.com/media/KHF2LH5zMtGxHMC3wB/giphy.gif" width="16"> [Broway Founder School](https://broway-founders-school-demo-bg2f.vercel.app/)
-<img src="https://media.giphy.com/media/KHF2LH5zMtGxHMC3wB/giphy.gif" width="16"> [Next Ecommerce](https://next-shopping-ecommerce.vercel.app/)
-<img src="https://media.giphy.com/media/KHF2LH5zMtGxHMC3wB/giphy.gif" width="16"> [Todo-list](https://nextauth-todo-app.vercel.app/)
+- <img src="https://media.giphy.com/media/KHF2LH5zMtGxHMC3wB/giphy.gif" width="16"> [Broway Founder School](https://broway-founders-school-demo-bg2f.vercel.app/)
+- <img src="https://media.giphy.com/media/KHF2LH5zMtGxHMC3wB/giphy.gif" width="16"> [Next Ecommerce](https://next-shopping-ecommerce.vercel.app/)
+- <img src="https://media.giphy.com/media/KHF2LH5zMtGxHMC3wB/giphy.gif" width="16"> [Todo-list](https://nextauth-todo-app.vercel.app/)
 
 ---
 
