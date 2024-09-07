@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer with a focus on building software solutions that make an impact. I love working with various technologies and am constantly learning new things to enhance my skillset.
 
----
 
 ## 🧑‍💻 About Me
 
